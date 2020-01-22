@@ -2,7 +2,6 @@
 Edifact/ANSI X12: Nationalized healthcare cowboys and insane, ungovernered, HIPAA Healthcare BioSphereWaste by ANSI X12
 
 Fix yourself! Officious Clandestine Counterfix
-
 Stephan Bax, Duke "Kneedeep" of the LowLands Mystic Tribes
 
 A temp Edifact fix: Better, easier and more accesible syntax rules to structure data,  https://en.wikipedia.org/wiki/XML/EDIFACT
