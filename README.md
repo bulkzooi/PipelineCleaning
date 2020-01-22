@@ -20,6 +20,10 @@ If it is required to develop new standards (for example formats, code lists, syn
 
 DOJ: Google & Apple
 FTC: antitrust against Facabook and Amazon
+The database known as “Main Core" reportedly collected and stored vast amounts of personal and financial data about millions of Americans in event of an emergency like Martial Law.
+Washington State Senator Maria Cantwell asked CEO Mark Zuckerberg about Palantir, Harvard Alumi, Rockefeller University and the Icahn School of Medicine at Mount Sinai, Stanford University, Church Committee, Berico Technologies, Peter Thiel, Program for Evolutionary Dynamics
+Charter Schools have the freedom to self-regulate
+Dersh, Acosta, Jared, @SecPompeo
 
 vs
 
