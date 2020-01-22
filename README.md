@@ -1,6 +1,5 @@
-# PipelineCleaning
+# PipelineCleaning, est. marketCap: Unshared.
 Edifact/ANSI X12: Nationalized healthcare cowboys and insane, ungovernered, HIPAA Healthcare BioSphereWaste by ANSI X12
-
 
 Fix yourself! Officious Clandestine Counterfix
 
