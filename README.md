@@ -18,12 +18,23 @@ Edifact/ANSI X12: Nationalized healthcare cowboys and insane, ungovernered, HIPA
 
 If it is required to develop new standards (for example formats, code lists, syntax bindings etc.), it wouldbe easier to build upon the existing work within TC440. This means that needs within Catalogues, Ordering, Fulfilment and Invoice can be developed faster
 
+Patriot insanity: In 2008, Salon.com published details about a top-secret government database that might have been at the heart of the Bush administration’s domestic spying operations.
 DOJ: Google & Apple
 FTC: antitrust against Facabook and Amazon
 The database known as “Main Core" reportedly collected and stored vast amounts of personal and financial data about millions of Americans in event of an emergency like Martial Law.
 Washington State Senator Maria Cantwell asked CEO Mark Zuckerberg about Palantir, Harvard Alumi, Rockefeller University and the Icahn School of Medicine at Mount Sinai, Stanford University, Church Committee, Berico Technologies, Peter Thiel, Program for Evolutionary Dynamics
 Charter Schools have the freedom to self-regulate
-Dersh, Acosta, Jared, @SecPompeo
+Martin Nowak, Dersh, Acosta, Jared, @SecPompeo
+
+evolutionary algorithm system.
+ties in Epstein and the Santa Fe Institute and the algorithms they are using to track, monitor and 'nudge' populations through the social media platforms.
+
+Jeffrey Epstein is a former member of the Mind, Brain and Behavior Committee at Harvard, the Trilateral Commission, the Council on Foreign Relations, the New York Academy of Science and a former Rockefeller University Board Member. Mr. Epstein is also an active member of the Edge Organization. see: https://www.jeffreyepstein.org/Jeffrey_Epstein.html
+
+The Jeffrey Epstein VI Foundation was established in 2000 to support cutting edge science and science education around the world.
+
+"It is not clear what the objective of social regulation of the net ought to be unless it is the improvement of human intellectual life--the broadening to be sure, the maximizing of access. But quality is important too."
+
 
 vs
 
