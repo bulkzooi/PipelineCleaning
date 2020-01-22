@@ -40,10 +40,12 @@ DNS and some more stuff: tbd
 
 Upstream standards, protocols and further external dependencies: 
 TC440: See CEN/TC440
+MTxxx/MXxxx
 ISO 9735-1, Release 2 1996-07-05: Electronic data interchange for administration, commerce and transport
-ISO 20022: SWIFT/SEPA/iDeal & PSD: (Payment Services Directive) 2015/2366. PSD1 is from 2007 and PSD2 is from 2015
+MT101/ISO 20022: SWIFT/SEPA/iDeal & PSD: (Payment Services Directive) 2015/2366. PSD1 is from 2007 and PSD2 is from 2015
 ISO 8583
-NACHA, FIX, FpML, BACS, Fedwire, MTxxx/MXxxx
+
+NACHA, FIX, FpML, BACS, Fedwire, 
 EDIFACT (CONTR, BANSTA, PAYMUL, DIRDEB, ETC)
 ISO XML (PIJN, PACS, CAMT, ETC)
 
