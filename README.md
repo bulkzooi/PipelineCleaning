@@ -70,12 +70,18 @@ signature formats (CMS/PKCS#7, PDF, EDI, XML, time-stamp) as well as CAdES, XAdE
 Verification of signatures including output of validation in different formats: Where is the input validation? That's the web, Javascript.
 Note: Designed voor UserLocking, like Apple set the trend. 
 
-SWIFT has been in use for several decades and most importantly, IS semi TRUSTED, due to facilitating leaks.
-In 2015, SWIFT linked more than 11,000 financial institutions in more than 200 countries and territories, who were exchanging an average of over 15 million messages per day. SWIFT operates under Belgian law and was not exactly on the same page as the U.S. (they politely tried telling them to fuck off) but the USA being the USA, some type of agreement was eventually made, Terrorist Finance Tracking Program.
+Society for Worldwide Interbank Financial Telecommunication
+SWIFT has been in use for several decades and most importantly, is semi TRUSTED, due to facilitating leaks.
 
-Swift is in defence mode against decentralization, resulting in GPI: 
+In 2015, SWIFT linked more than 11,000 financial institutions, incl. Commercial Bank of China, BBVA, Citi, ING Bank, Standard Chartered, ABN AMRO, DBS Bank, Industrial Intesa Sanpaolo, Nordea Bank en UniCredit, in more than 200 countries and territories, or landcorridors, who were exchanging an average of over 15 million messages per day. 
+NoteSB: Transactions mixing it all up! Confusion infected mushroom defcon level!!!
+
+SWIFT operates under Belgian law and was not exactly on the same page as the U.S. (they politely tried telling them to fuck off) but the USA being the USA, some type of agreement was eventually made, Terrorist Finance Tracking Program.
+
+Swift is in defence mode against decentralization, resulting in Global Payments Innovation, GPI: 
+GPI-programmadirecteur Wim Raymaekers 
 https://www.swift.com/our-solutions/swift-gpi
-
+ 
 Openbanking(REST, JSON/XBRL and SWIFT)/PSD2, Securered TLS transport, encrypted content and that's calledsmart government or GPI. Hash and signature algorithms (SHA-1 to SHA-512, RSA), Support for proxy servers. These people are loosing it.
 
 Some new products, counter decentral: real-time, domestic payment systems
@@ -95,3 +101,4 @@ https://ec.europa.eu/tools/espd
 https://www.gs1.org/services/gdsn
 https://www.digst.dk/Servicemenu/English/Digitisation/NemHandel
 http://www.oioubl.info/classes/en/index.htm
+https://nordicsmartgovernment.org/sites/default/files/2019-09/dansense_-_b2b_nordic_data_exchange.pdf
