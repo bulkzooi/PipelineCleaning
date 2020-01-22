@@ -8,6 +8,9 @@ Stephan Bax, Duke "Kneedeep" of the LowLands Mystic Tribes
 A temp Edifact fix: Better, easier and more accesible syntax rules to structure data,  https://en.wikipedia.org/wiki/XML/EDIFACT
 Maintainer: UN/CEFACT
 
+Probems: 
+Mess, Binaries, list, roadmaps, todo's. and proprietary formats misusing sane standards with wrong definitions and grouping. support for Postgres DBm Mulesoft, IBM Integration Bus (IIB).
+
 Affected Formats: 
 Data format in information technology may refer to a file format as a format for encoding data for storage in a computer file or to a datatype, constraint placed upon the interpretation of data in a type system.
 
@@ -35,29 +38,27 @@ Wrapperworld: GeoJSON2XML, KML enriched RSS with .md text and other popular open
 DNS and some more stuff: tbd
 
 Upstream standards, protocols and further external dependencies: 
-ISO 9735-1, Release 2 1996-07-05: Electronic data interchange for administration, commerce and transport
-ISO 20022
-ISO 8583
-SWIFT
-US-TCH-RTP
 TC440: See CEN/TC440
-PSD: (Payment Services Directive) 2015/2366. PSD1 is from 2007 and PSD2 is from 2015
-SEPA/iDeal
+ISO 9735-1, Release 2 1996-07-05: Electronic data interchange for administration, commerce and transport
+ISO 20022: SWIFT/SEPA/iDeal & PSD: (Payment Services Directive) 2015/2366. PSD1 is from 2007 and PSD2 is from 2015
+ISO 8583
+NACHA, FIX, FpML, BACS, Fedwire, MTxxx/MXxxx
+EDIFACT (CONTR, BANSTA, PAYMUL, DIRDEB, ETC)
+ISO XML (PIJN, PACS, CAMT, ETC)
+
+Sector Extentions:
+US-TCH-RTP
 BELI (België)
 CLIEOP (02,03, +, Nederland)
 DT (Duits)
 Etebac (Frankrijk)
 Norma (Spanje)
-EDIFACT (CONTR, BANSTA, PAYMUL, DIRDEB, ETC)
-ISO XML (PIJN, PACS, CAMT, ETC)
-MTxxx/MXxxx
+
+Branches:
 VERWINFO (w / wo SEPA, Nederland) 
 NemHandel/PEPPOL and The European VANS providers via EESPA
-NACHA, FIX, FpML, EDIFACT, ISO 20022, SEPA, BACS, US TCH and Fedwire, 
 
-Probems: 
-Bianries, list, roadmaps, todo's. and proprietary formats misusing sane standards with wrong definitions and grouping. support for Postgres DBm Mulesoft, IBM Integration Bus (IIB).
-
+Breakdown:
 industry participants & Internationalisation: GDSN14: Global Data Synchronisation Network is a network of interoperable data pools enabling collaborating users to securely synchronise master data based on GS1 standards. The Global Data Synchronisation Network (GDSN) enables trading partnersto globally share trusted product data. Jersey City, London, Dubai, Mexico City, Hyderabad, Chennai and Pune.
 
 Signing & Validation Service provides & Vulture Tech: To be traded using web services, a file-based interface, or SDK (Java or .NET).  
