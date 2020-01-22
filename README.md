@@ -6,6 +6,7 @@ Stephan Bax, Duke "Kneedeep" of the LowLands Mystic Tribes
 
 A temp Edifact fix: Better, easier and more accesible syntax rules to structure data,  https://en.wikipedia.org/wiki/XML/EDIFACT
 Maintainer: UN/CEFACT
+If it is required to develop new standards (for example formats, code lists, syntax bindings etc.), it wouldbe easier to build upon the existing work within TC440. This means that needs within Catalogues, Ordering, Fulfilment and Invoice can be developed faster
 
 Probems: 
 Mess, Binaries, list, roadmaps, todo's. and proprietary formats misusing sane standards with wrong definitions and grouping. support for Postgres DBm Mulesoft, IBM Integration Bus (IIB).
@@ -35,6 +36,7 @@ SD Association, Wi-Fi Alliance & JEDEC
 Toolchain, build around Github and with many API's and default conversions.
 Wrapperworld: GeoJSON2XML, KML enriched RSS with .md text and other popular open content formats and licenses, and a lot of nice stuff.
 DNS and some more stuff: tbd
+
 
 Upstream standards, protocols and further external dependencies: 
 TC440: See CEN/TC440
@@ -66,17 +68,26 @@ signature formats (CMS/PKCS#7, PDF, EDI, XML, time-stamp) as well as CAdES, XAdE
 Verification of signatures including output of validation in different formats: Where is the input validation? That's the web, Javascript.
 Note: Designed voor UserLocking, like Apple set the trend. 
 
+SWIFT has been in use for several decades and most importantly, IS semi TRUSTED, due to facilitating leaks.
+In 2015, SWIFT linked more than 11,000 financial institutions in more than 200 countries and territories, who were exchanging an average of over 15 million messages per day. SWIFT operates under Belgian law and was not exactly on the same page as the U.S. (they politely tried telling them to fuck off) but the USA being the USA, some type of agreement was eventually made, Terrorist Finance Tracking Program.
+
+Swift is in defence mode against decentralization, resulting in GPI: 
+https://www.swift.com/our-solutions/swift-gpi
+
+Openbanking(REST, JSON/XBRL and SWIFT)/PSD2, Securered TLS transport, encrypted content and that's calledsmart government or GPI. Hash and signature algorithms (SHA-1 to SHA-512, RSA), Support for proxy servers. These people are loosing it.
+
+Some new products, counter decentral: real-time, domestic payment systems
+https://ripple.com/insights/who-really-cares-about-real-time-payments/
+
 ie. Volante: 250 prebuilt, customizable, bidirectional transformations to and from these standards.
 Dutch Examples: Acumulus, Moneybird, iMUIS online, e-Boekhouden, Reeleezee, Snelstart, EXACT, Easy Admin of Excel. 
 Rabobank, NTT, Cisco, Check Point en Palo Alto
 
-Openbanking(REST, JSON/XBRL and SWIFT)/PSD2, Securered TLS transport, encrypted content and that's calledsmart government or GPI. Hash and signature algorithms (SHA-1 to SHA-512, RSA), Support for proxy servers. These people are loosing it.
-
+Glossary:
 UBL 2.1:UBL is an open library of standard electronic XML business documentsfor procurement and transportation such as purchase orders, invoices, transportlogistics and waybills.
 UNSPSC (United Nations Standard Product and Services Code) is an international classification system for goods and services and has been widely used by public authorities as well as many large private companies for many years.UNSPSC codes has been imbedded in the OUOUBL. OIOUBL is a Danish adaptation of the International Standard UBL 2.0 from the Organization for the Advancement of Structured Information Standards (OASIS) for Danish Business Requirements
 
-If it is required to develop new standards (for example formats, code lists, syntax bindings etc.), it wouldbe easier to build upon the existing work within TC440. This means that needs within Catalogues, Ordering, Fulfilment and Invoice can be developed faster
-
+Reference & Attribution;
 https://www.esens.eu/
 https://ec.europa.eu/tools/espd
 https://www.gs1.org/services/gdsn
