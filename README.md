@@ -126,7 +126,8 @@ Glossary:
 UBL 2.1:UBL is an open library of standard electronic XML business documentsfor procurement and transportation such as purchase orders, invoices, transportlogistics and waybills.
 UNSPSC (United Nations Standard Product and Services Code) is an international classification system for goods and services and has been widely used by public authorities as well as many large private companies for many years.UNSPSC codes has been imbedded in the OUOUBL. OIOUBL is a Danish adaptation of the International Standard UBL 2.0 from the Organization for the Advancement of Structured Information Standards (OASIS) for Danish Business Requirements
 
-Reference & Attribution;
+Reference & Attribution
+removing the middleman, #counterAI #ReverseAI #FuzzyAI #Cookbook #AgileAnalytics #zerotrust #SnowBall
 https://www.esens.eu/
 https://ec.europa.eu/tools/espd
 https://www.gs1.org/services/gdsn
