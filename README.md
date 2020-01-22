@@ -1,11 +1,11 @@
 # PipelineCleaning, est. marketCap: Unshared.
-Edifact/ANSI X12: Nationalized healthcare cowboys and insane, ungovernered, HIPAA Healthcare BioSphereWaste by ANSI X12
+Edifact/ANSI X12: Nationalized healthcare cowboys and insane, ungovernered, HIPAA Healthcare BioSphereWaste by ANSI X12 and Maintained by UN/CEFACT
 
 Fix yourself! Officious Clandestine Counterfix
 Stephan Bax, Duke "Kneedeep" of the LowLands Mystic Tribes
 
-A temp Edifact fix: Better, easier and more accesible syntax rules to structure data,  https://en.wikipedia.org/wiki/XML/EDIFACT
-Maintainer: UN/CEFACT
+A temp Edifact fix towards Better, easier and more accesible syntax rules to structure data  
+https://en.wikipedia.org/wiki/XML/EDIFACT
 
 Probems: 
 Mess, Binaries, list, roadmaps, todo's. and proprietary formats misusing sane standards with wrong definitions and grouping. support for Postgres DBm Mulesoft, IBM Integration Bus (IIB).
@@ -14,7 +14,7 @@ Affected Formats:
 Data format in information technology may refer to a file format as a format for encoding data for storage in a computer file or to a datatype, constraint placed upon the interpretation of data in a type system.
 
 Management summary:
-Edifact/ANSI X12: Nationalized healthcare cowboys and insane, ungovernered, HIPAA Healthcare BioSphereWaste by ANSI X12
+Nationalized healthcare cowboys and insane, ungovernered, BioSphereWaste, kleptocrats, bubblesettlers.
 
 If it is required to develop new standards (for example formats, code lists, syntax bindings etc.), it wouldbe easier to build upon the existing work within TC440. This means that needs within Catalogues, Ordering, Fulfilment and Invoice can be developed faster
 
