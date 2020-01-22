@@ -18,34 +18,49 @@ Edifact/ANSI X12: Nationalized healthcare cowboys and insane, ungovernered, HIPA
 
 If it is required to develop new standards (for example formats, code lists, syntax bindings etc.), it wouldbe easier to build upon the existing work within TC440. This means that needs within Catalogues, Ordering, Fulfilment and Invoice can be developed faster
 
+DOJ: Google & Apple
+FTC: antitrust against Facabook and Amazon
+
+vs
+
+W3c #HTML5 & Internet Engineering Task Force (IETF) : TCP/IP, ipv6, 
+The IETF cooperates with the IETF W3C, ISO/IEC, ITU.
+SWIFT: Society for Worldwide Interbank Financial Telecommunication
+
+Wifi Alliance
+DDR5: JEDEC has over 300 members, including some of the world's largest computer companies
+PCIe5.0: PCI-standards consortium PCI-SIG (Special Interest Group)
+SATA: Serial ATA International Organization
+UHS
+SD Association, a group that sets standardisation of SD and microSD cards, the Wi-Fi Alliance group and the JEDEC group.
+USB:
+HDMI
+displayport:
+Unicode 12.1
+PostGIS, SQL/MM & ISO OGC ‘Simple feature access’ & extensions, subset of ISOtrade.
+
 Pirate Addendum's usually are in the 1 series
 ISO 9001:2015 Quality management systems
 ISO/IEC 27000-series security management
 ISO 14001 & OHSAS 18001
 GDPR Directive UE 2016/679 General Data Protection Regulation
 ISO / #TC307 Blockchain and distributed ledger technologies
-PSDII: tbd
-Directive NIS
-NIST/BIPM
-...
-ofc with all legacy financial stuff as well. #Rewind #W3C #HTML5
-
-The Internet Engineering Task Force (#IETF) works the W3C ISO/IEC ITU on TCP/IP ipv6
-PostGIS, SQL/MM & ISO OGC ‘Simple feature access’ & extensions, subset of ISOtrade.
-SD Association, Wi-Fi Alliance & JEDEC
-
-Toolchain, build around Github and with many API's and default conversions.
-Wrapperworld: GeoJSON2XML, KML enriched RSS with .md text and other popular open content formats and licenses, and a lot of nice stuff.
-DNS and some more stuff: tbd
-
-
-Upstream standards, protocols and further external dependencies: 
 TC440: See CEN/TC440
 MTxxx/MXxxx
 ISO 9735-1, Release 2 1996-07-05: Electronic data interchange for administration, commerce and transport
 MT101/ISO 20022: SWIFT/SEPA/iDeal & PSD: (Payment Services Directive) 2015/2366. PSD1 is from 2007 and PSD2 is from 2015
 ISO 8583
+PSDII: tbd
+Directive NIS
+NIST/BIPM
+...
+ofc with all legacy financial stuff as well. #Rewind 
 
+Toolchain, build around Github and with many API's and default conversions.
+Wrapperworld: GeoJSON2XML, KML enriched RSS with .md text and other popular open content formats and licenses, and a lot of nice stuff.
+DNS and some more stuff: tbd
+
+Upstream standards, protocols and further external dependencies: 
 NACHA, FIX, FpML, BACS, Fedwire, 
 EDIFACT (CONTR, BANSTA, PAYMUL, DIRDEB, ETC)
 ISO XML (PIJN, PACS, CAMT, ETC)
