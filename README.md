@@ -6,7 +6,6 @@ Stephan Bax, Duke "Kneedeep" of the LowLands Mystic Tribes
 
 A temp Edifact fix: Better, easier and more accesible syntax rules to structure data,  https://en.wikipedia.org/wiki/XML/EDIFACT
 Maintainer: UN/CEFACT
-If it is required to develop new standards (for example formats, code lists, syntax bindings etc.), it wouldbe easier to build upon the existing work within TC440. This means that needs within Catalogues, Ordering, Fulfilment and Invoice can be developed faster
 
 Probems: 
 Mess, Binaries, list, roadmaps, todo's. and proprietary formats misusing sane standards with wrong definitions and grouping. support for Postgres DBm Mulesoft, IBM Integration Bus (IIB).
@@ -16,6 +15,8 @@ Data format in information technology may refer to a file format as a format for
 
 Management summary:
 Edifact/ANSI X12: Nationalized healthcare cowboys and insane, ungovernered, HIPAA Healthcare BioSphereWaste by ANSI X12
+
+If it is required to develop new standards (for example formats, code lists, syntax bindings etc.), it wouldbe easier to build upon the existing work within TC440. This means that needs within Catalogues, Ordering, Fulfilment and Invoice can be developed faster
 
 Pirate Addendum's usually are in the 1 series
 ISO 9001:2015 Quality management systems
