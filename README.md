@@ -29,28 +29,26 @@ Martin Nowak, Dersh, Acosta, Jared, @SecPompeo
 evolutionary algorithm system.
 ties in Epstein and the Santa Fe Institute and the algorithms they are using to track, monitor and 'nudge' populations through the social media platforms.
 
-Jeffrey Epstein is a former member of the Mind, Brain and Behavior Committee at Harvard, the Trilateral Commission, the Council on Foreign Relations, the New York Academy of Science and a former Rockefeller University Board Member. Mr. Epstein is also an active member of the Edge Organization. see: https://www.jeffreyepstein.org/Jeffrey_Epstein.html
+Jeffrey Epstein was/is a former member of the Mind, Brain and Behavior Committee at Harvard, the Trilateral Commission, the Council on Foreign Relations, the New York Academy of Science and a former Rockefeller University Board Member. Big J. is also an active member of the Edge Organization. 
+https://www.jeffreyepstein.org/Jeffrey_Epstein.html
 
 The Jeffrey Epstein VI Foundation was established in 2000 to support cutting edge science and science education around the world.
-
 "It is not clear what the objective of social regulation of the net ought to be unless it is the improvement of human intellectual life--the broadening to be sure, the maximizing of access. But quality is important too."
 
 
 vs
 
-W3c #HTML5 & Internet Engineering Task Force (IETF) : TCP/IP, ipv6, 
+W3C #HTML5 & Internet Engineering Task Force (IETF) : TCP/IP, ipv6, halfDNS, semiFOSS 
 The IETF cooperates with the IETF W3C, ISO/IEC, ITU.
 SWIFT: Society for Worldwide Interbank Financial Telecommunication
-
-Wifi Alliance
-DDR5: JEDEC has over 300 members, including some of the world's largest computer companies
 PCIe5.0: PCI-standards consortium PCI-SIG (Special Interest Group)
+
+SD Association, a group that sets standardisation of SD and microSD cards, the Wi-Fi Alliance group and the JEDEC group.
+DDR5: JEDEC has over 300 members, including some of the world's largest computer companies
 SATA: Serial ATA International Organization
 UHS
-SD Association, a group that sets standardisation of SD and microSD cards, the Wi-Fi Alliance group and the JEDEC group.
 USB:
-HDMI
-displayport:
+DisplayPort 1.4a, HBR3, DSC 1.2a, HDMI 2.1, HDCP 2.2: USB type-C connector for power, audio and video over a single cable with thunderbolt will eliminate most of that mess, but what donated Intel, 4 gbits only?, and how bad are those vendor extentions really? 
 Unicode 12.1
 PostGIS, SQL/MM & ISO OGC ‘Simple feature access’ & extensions, subset of ISOtrade.
 
